@@ -5,10 +5,15 @@ This repo contains my first app made in Android Studio. It helped grasp basic un
 
 ### Approach:
 I created a button object and images objects for the dice, when the button is pressed the appropriate image will be selected. So, when player pushes the button the dice image is shown and player position is changed.
+
 To change the position of player what I did was, I got X and Y co-ordinates of the current location and set them to the target location for each dice roll.
+
 In case of snakes and ladders I updated the target location accordingly.
+
 As for changing direction when player moves to the upper row i.e. from left --> right to right --> left, I simply multiplied direction with negative 1 to change direction at the end of each row.
+
 Buttons were styled using different xml files and a button disabled was introduced to disable button for 2 seconds after the turn.
+
 Icon and name of the app were also customized.
 
 ### How to run:
