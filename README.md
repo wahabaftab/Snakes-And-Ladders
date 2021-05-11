@@ -2,6 +2,9 @@
 
 This repo contains my first app made in Android Studio. It helped grasp basic understanding of how app works and how to make one using android studio. Its a basic snakes & ladders game which can be improved further but since I didn't know much about android studio when I was making it So you might run into some issues. You can find more details about the app here: wahabaftab.com/Projects
 
+### Intro:
+
+I made a simple snakes and ladders game for android. The app has a splash screen which will be displayed for 2 seconds then the main user interface will be shown. The interface will have 2 buttons i.e. Play and Instructions. Instructions button will take you to the instruction screen while play will take you to the actual game. In the game window there is a board at the top of the screen and a button labelled “roll” which will be used to roll the dice and move the players accordingly. The user player is denoted by red box while automated opponent is denoted by a black one. Each dice roll will move the players depending upon the numbers. In the board there are ladders and snakes which will take you forward and backward respectively. First person to finish the 100 mark will win the game and a prompt will be shown.
 
 ### Approach:
 I created a button object and images objects for the dice, when the button is pressed the appropriate image will be selected. So, when player pushes the button the dice image is shown and player position is changed.
