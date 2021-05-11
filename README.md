@@ -1,6 +1,6 @@
 # Snakes-And-Ladders
 
-This repo contains my first app made in Android Studio. It helped grasp basic understanding of how app works and how to make one using android studio. Its a basic snakes & ladders game limited by my lack of knowledge or understanding of how android studio works at the time of making the app. Thus it can be improved further.
+This repo contains my first app made in Android Studio. It helped grasp basic understanding of how app works and how to make one using android studio. Its a basic snakes & ladders game limited by my lack of knowledge or understanding about Android Studio at the time of making the app. Thus it can be improved further.
 
 ### Intro:
 
