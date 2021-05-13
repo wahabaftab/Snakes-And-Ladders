@@ -32,3 +32,5 @@ Android Studio:
 
 ### Future Work/Improvements:
 The app currently uses hard coded values for pixels thus it works find on my screen but I can't say the same for every screen. One possible solution is to make player movement relative to the screen instead of absolute so it would work fine on every screen. Another thing that can be added is multiplayer option where you can play with a player instead of AI.
+
+If you want more details, you can visit: https://wahabaftab.com/Snakes&Ladders-App/
